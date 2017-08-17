@@ -1,3 +1,5 @@
+""" Configuration file. This setups constants for the Agent, Environment, as well as the DQN Model"""
+
 class AgentConfig(object):
   scale = 10000
   display = False
